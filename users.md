@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -347,3 +347,8 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+
+- Name: Aaron Dominguez
+  Place: Galiza
+  Bio: Student Developer
+  Github: [mayank26saxena](https://github.com/arponpes) 
